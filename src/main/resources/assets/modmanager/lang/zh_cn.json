@@ -1,0 +1,22 @@
+{
+  "modmanager.menu.title": "Mods管理",
+  "modmanager.mod.select": "选中: ",
+  "modmanager.mod.download": "安装/更新",
+  "modmanager.mod.done": "完成",
+  "modmanager.mod.search": "检索",
+  "modmanager.info.version": "版本:  {0}",
+  "modmanager.info.modid": "ModId:  {0}",
+  "modmanager.info.authors": "作者:  {0}",
+  "modmanager.info.license": "许可证:  {0}",
+  "modmanager.info.desc": "介绍:  {0}",
+  "modmanager.info.side": "使用端:  {0}",
+  "modmanager.info.tag": "分类:  {0}",
+  "modmanager.info.uploader": "录入者:  {0}",
+  "modmanager.info.uploadtime": "录入时间:  {0}",
+  "modmanager.state.new": "未安装",
+  "modmanager.state.same": "已是最新版本",
+  "modmanager.state.leaded": "存在新版本",
+  "modmanager.state.outdated": "已过时版本",
+  "modmanager.state.incompatible": "互斥mod",
+  "modmanager.state.invalid": "无效mod"
+}

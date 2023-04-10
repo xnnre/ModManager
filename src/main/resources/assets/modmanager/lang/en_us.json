@@ -1,0 +1,22 @@
+{
+  "modmanager.menu.title": "Mods Manager",
+  "modmanager.mod.select": "Selected: ",
+  "modmanager.mod.download": "Install/Update",
+  "modmanager.mod.done": "Complete",
+  "modmanager.mod.search": "Search",
+  "modmanager.info.version": "Version:  {0}",
+  "modmanager.info.modid": "ModId:  {0}",
+  "modmanager.info.authors": "Authors:  {0}",
+  "modmanager.info.license": "License:  {0}",
+  "modmanager.info.desc": "Introduction:  {0}",
+  "modmanager.info.side": "Side:  {0}",
+  "modmanager.info.tag": "Category:  {0}",
+  "modmanager.info.uploader": "Recorder:  {0}",
+  "modmanager.info.uploadtime": "RecordTime:  {0}",
+  "modmanager.state.new": "Not install yet",
+  "modmanager.state.same": "Up to date",
+  "modmanager.state.leaded": "Update available",
+  "modmanager.state.outdated": "Outdated version",
+  "modmanager.state.incompatible": "Exclusive mod",
+  "modmanager.state.invalid": "Invalid mod"
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.xnnre.mod.modmanager.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ModManager.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MixinClientModReloadable",
+    "MixinTitleScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
